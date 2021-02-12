@@ -17,7 +17,7 @@
   ],
   "Placa":[
     {"id": "AAA-999", "modelo": "Fox", "ano_modelo": "2018/2019", "proprietario": "Luis"},
-    {"id": "BBB-999", "modelo": "Gol", "ano_modelo": "2020/2021", "proprietario": "Alberto"},
+    {"id": "BBB-999", "modelo": "Gol", "ano_modelo": "2020/2021", "proprietario": "Alberto"}
   ]
 
 }
