@@ -1,0 +1,19 @@
+{
+  "cursos": [
+    {"id":1, "titulo": "titulo teste 1", "url": "https://teste1.com.br"},
+    {"id":2, "titulo": "titulo teste 2", "url": "https://teste2.com.br"},
+    {"id":3, "titulo": "titulo teste 3", "url": "https://teste3.com.br"},
+    {"id":4, "titulo": "titulo teste 4", "url": "https://teste4.com.br"}
+    ],
+  "alunos":[
+    {"id":1, "nome": "Luis", "curso": 1},
+    {"id":2, "nome": "Alberto", "curso": 2},
+    {"id":3, "nome": "Plens", "curso": 3},
+    {"id":4, "nome": "Branco", "curso": 4},
+    {"id":5, "nome": "Junior", "curso": 5}
+  ],
+  "empresa": [
+    {"nome": "EmpresaTeste"}
+  ]
+
+}
